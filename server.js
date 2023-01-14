@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const managers = require("../lib/Manager.js");
+const managers = require("./lib/Manager.js");
 let bank = []
 let engineerbank = []
 let internbank = []
@@ -215,6 +215,9 @@ function engineer(){
                     <div class="office">school:${school}</div>
                 </div>
             </div>
+            </div>
+            </body>
+            </html>
             `, (err) =>
     err ? console.error(err) : console.log('Success!')
     )
