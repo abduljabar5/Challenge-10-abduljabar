@@ -14,6 +14,9 @@ This project was a little tricky, but what kept me motivated was the little chal
 
 https://abduljabar5.github.io/Challenge-10-abduljabar/
 
+[Untitled_ Jan 14, 2023 12_46 PM.webm](https://user-images.githubusercontent.com/115905200/213317925-bf4b12b4-fe76-4903-9637-45e88c2740eb.webm)
+
+
 ## Usage
 
 generates an HTML webpage that displays summaries for each person.
@@ -21,7 +24,7 @@ generates an HTML webpage that displays summaries for each person.
 ![Alt text](assets/img/portfolio.png)
 
 ## Credits
-(https://drive.google.com/file/d/1-KoLOlVSEtEqqalINJ0oHzL2NADbo0ZP/view Links to an external site.)
+google.com
 
 ## License
 
