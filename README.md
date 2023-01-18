@@ -21,7 +21,7 @@ generates an HTML webpage that displays summaries for each person.
 ![Alt text](assets/img/portfolio.png)
 
 ## Credits
-google.com
+(https://drive.google.com/file/d/1-KoLOlVSEtEqqalINJ0oHzL2NADbo0ZP/view Links to an external site.)
 
 ## License
 
